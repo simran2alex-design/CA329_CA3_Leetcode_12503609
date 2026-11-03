@@ -3,7 +3,6 @@ lass Solution {
         if(x<0){
             return false;
         }
-
         int org = x;
         int reverse = 0;
          while(x>0)
